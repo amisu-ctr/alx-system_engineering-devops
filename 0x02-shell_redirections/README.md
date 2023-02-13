@@ -7,3 +7,4 @@ Shell redirections script . PRACTICE
 Display the last 10 lines of etc/passwd
 4- Display the last 10 lines of /etc/passwd
 5- display the first 10lines of /etc/passwd
+5- Display the first 10 lines of /etc/passwd
