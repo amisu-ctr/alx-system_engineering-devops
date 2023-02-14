@@ -3,3 +3,4 @@ Create a scriptt that creates an alias
 2- Add /action to the PATH. /action should be the last directory the shell looks into when lookin gfor a program
 Create a script that coiunts the number of directories in the PATH
 4- Create a script that lists environment variables
+Create a script that lists all local variable and environment variable, and functions
