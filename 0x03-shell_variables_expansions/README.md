@@ -15,3 +15,5 @@ Write a script that converts a number from base 2 to base 10
 *One combination per line.
 *Do not print oo
 *Your script file should contain maximum 64 characters
+Write a script that prints a number with two decimal places, followed by a new line 
+*The number will stored in the envirnment variable NUM
