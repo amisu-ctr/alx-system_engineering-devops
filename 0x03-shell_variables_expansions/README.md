@@ -10,3 +10,8 @@ Create a script that createes a new local variable
 9- Write a script that prints the result of POWER divided by DIVIDE, followed by a newline
 10- Write a script that displays the result of BREATH to the power LOVE
 Write a script that converts a number from base 2 to base 10
+12- Create a script that prints all possible combinations of two letter, except oo.
+*Letter are lower cases, from a to z
+*One combination per line.
+*Do not print oo
+*Your script file should contain maximum 64 characters
